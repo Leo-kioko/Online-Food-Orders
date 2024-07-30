@@ -1,0 +1,2 @@
+The dataset contains information collected from an online food ordering platform over a period of time. It encompasses various attributes related to Occupation, Family Size, Feedback etc..
+This dataset can be utilized to explore the relationship between demographic/location factors and online food ordering behavior, analyze customer feedback to improve service quality, and potentially predict customer preferences or behavior based on demographic and location attributes.
